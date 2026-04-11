@@ -2,7 +2,7 @@
 
 
 
-# 🎵🎵 Ableton Production Suite 2026 — Audio Workflow & Mixing Toolkit
+# 🎵🎵🎵 Ableton Production Suite 2026 — Audio Workflow & Mixing Toolkit
 
 [![GitHub Stars](https://img.shields.io/github/stars/Alexantros341/Ableton-Production-Suite)](https://github.com/Alexantros341/Ableton-Production-Suite)
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT)
